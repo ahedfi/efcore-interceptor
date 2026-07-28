@@ -1,5 +1,8 @@
 # EF Core Interceptors Example
 
+![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet?logo=dotnet)
+![License](https://img.shields.io/github/license/ahedfi/efcore-interceptor?color=green)
+
 A .NET 10 Web API demonstrating EF Core `SaveChangesInterceptor` patterns in a clean architecture with minimal API, repository + unit of work pattern, and PostgreSQL.
 
 ## Overview
