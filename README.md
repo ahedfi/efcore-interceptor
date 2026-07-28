@@ -195,6 +195,6 @@ docker volume rm efcore-interceptor-data
 ## References
 
 - [EF Core Interceptors (Blog Post)](https://ahedfi.github.io/ef-core-interceptors)
-- [SaveChangesInterceptor (Microsoft Docs)](https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.diagnostics.savingchangesinterceptor)
+- [SaveChangesInterceptor (Microsoft Docs)](https://learn.microsoft.com/en-us/ef/core/logging-events-diagnostics/interceptors)
 - [Global Query Filters (Microsoft Docs)](https://learn.microsoft.com/en-us/ef/core/querying/filters)
 - [Minimal APIs (.NET 10)](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis)
